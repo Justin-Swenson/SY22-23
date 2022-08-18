@@ -60,6 +60,8 @@ Partial Class Form1
         Me.migPictureBox1 = New System.Windows.Forms.PictureBox()
         Me.Label9 = New System.Windows.Forms.Label()
         Me.speedlabel = New System.Windows.Forms.Label()
+        Me.srButton = New System.Windows.Forms.Button()
+        Me.SRPictureBox = New System.Windows.Forms.PictureBox()
         CType(Me.displayPictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.BiplanePictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.b17PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -72,11 +74,12 @@ Partial Class Form1
         CType(Me.f35PictureBox, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.boeingPictureBox, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.migPictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.SRPictureBox, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(687, 9)
+        Me.Button1.Location = New System.Drawing.Point(725, -2)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(75, 23)
         Me.Button1.TabIndex = 0
@@ -172,7 +175,7 @@ Partial Class Form1
         '
         'Button2
         '
-        Me.Button2.Location = New System.Drawing.Point(686, 87)
+        Me.Button2.Location = New System.Drawing.Point(725, 59)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(75, 23)
         Me.Button2.TabIndex = 10
@@ -189,7 +192,7 @@ Partial Class Form1
         '
         'Button3
         '
-        Me.Button3.Location = New System.Drawing.Point(686, 164)
+        Me.Button3.Location = New System.Drawing.Point(725, 122)
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(75, 23)
         Me.Button3.TabIndex = 12
@@ -255,7 +258,7 @@ Partial Class Form1
         '
         'Button4
         '
-        Me.Button4.Location = New System.Drawing.Point(686, 235)
+        Me.Button4.Location = New System.Drawing.Point(725, 186)
         Me.Button4.Name = "Button4"
         Me.Button4.Size = New System.Drawing.Size(75, 23)
         Me.Button4.TabIndex = 20
@@ -272,7 +275,7 @@ Partial Class Form1
         '
         'Button5
         '
-        Me.Button5.Location = New System.Drawing.Point(684, 306)
+        Me.Button5.Location = New System.Drawing.Point(716, 251)
         Me.Button5.Name = "Button5"
         Me.Button5.Size = New System.Drawing.Size(84, 23)
         Me.Button5.TabIndex = 22
@@ -282,9 +285,9 @@ Partial Class Form1
         'BplanePictureBox
         '
         Me.BplanePictureBox.Image = CType(resources.GetObject("BplanePictureBox.Image"), System.Drawing.Image)
-        Me.BplanePictureBox.Location = New System.Drawing.Point(688, 31)
+        Me.BplanePictureBox.Location = New System.Drawing.Point(708, 19)
         Me.BplanePictureBox.Name = "BplanePictureBox"
-        Me.BplanePictureBox.Size = New System.Drawing.Size(110, 57)
+        Me.BplanePictureBox.Size = New System.Drawing.Size(92, 41)
         Me.BplanePictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
         Me.BplanePictureBox.TabIndex = 24
         Me.BplanePictureBox.TabStop = False
@@ -292,9 +295,9 @@ Partial Class Form1
         'b17PictureBox
         '
         Me.b17PictureBox.Image = CType(resources.GetObject("b17PictureBox.Image"), System.Drawing.Image)
-        Me.b17PictureBox.Location = New System.Drawing.Point(687, 109)
+        Me.b17PictureBox.Location = New System.Drawing.Point(708, 82)
         Me.b17PictureBox.Name = "b17PictureBox"
-        Me.b17PictureBox.Size = New System.Drawing.Size(111, 56)
+        Me.b17PictureBox.Size = New System.Drawing.Size(92, 41)
         Me.b17PictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
         Me.b17PictureBox.TabIndex = 25
         Me.b17PictureBox.TabStop = False
@@ -302,9 +305,9 @@ Partial Class Form1
         'f117PictureBox
         '
         Me.f117PictureBox.Image = CType(resources.GetObject("f117PictureBox.Image"), System.Drawing.Image)
-        Me.f117PictureBox.Location = New System.Drawing.Point(687, 186)
+        Me.f117PictureBox.Location = New System.Drawing.Point(708, 144)
         Me.f117PictureBox.Name = "f117PictureBox"
-        Me.f117PictureBox.Size = New System.Drawing.Size(111, 54)
+        Me.f117PictureBox.Size = New System.Drawing.Size(92, 43)
         Me.f117PictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
         Me.f117PictureBox.TabIndex = 26
         Me.f117PictureBox.TabStop = False
@@ -312,9 +315,9 @@ Partial Class Form1
         'f35PictureBox
         '
         Me.f35PictureBox.Image = CType(resources.GetObject("f35PictureBox.Image"), System.Drawing.Image)
-        Me.f35PictureBox.Location = New System.Drawing.Point(687, 256)
+        Me.f35PictureBox.Location = New System.Drawing.Point(708, 206)
         Me.f35PictureBox.Name = "f35PictureBox"
-        Me.f35PictureBox.Size = New System.Drawing.Size(111, 54)
+        Me.f35PictureBox.Size = New System.Drawing.Size(92, 46)
         Me.f35PictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
         Me.f35PictureBox.TabIndex = 27
         Me.f35PictureBox.TabStop = False
@@ -322,9 +325,9 @@ Partial Class Form1
         'boeingPictureBox
         '
         Me.boeingPictureBox.Image = CType(resources.GetObject("boeingPictureBox.Image"), System.Drawing.Image)
-        Me.boeingPictureBox.Location = New System.Drawing.Point(685, 327)
+        Me.boeingPictureBox.Location = New System.Drawing.Point(708, 271)
         Me.boeingPictureBox.Name = "boeingPictureBox"
-        Me.boeingPictureBox.Size = New System.Drawing.Size(113, 53)
+        Me.boeingPictureBox.Size = New System.Drawing.Size(92, 44)
         Me.boeingPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
         Me.boeingPictureBox.TabIndex = 28
         Me.boeingPictureBox.TabStop = False
@@ -369,7 +372,7 @@ Partial Class Form1
         '
         'mig25button
         '
-        Me.mig25button.Location = New System.Drawing.Point(685, 376)
+        Me.mig25button.Location = New System.Drawing.Point(717, 315)
         Me.mig25button.Name = "mig25button"
         Me.mig25button.Size = New System.Drawing.Size(83, 26)
         Me.mig25button.TabIndex = 33
@@ -379,9 +382,9 @@ Partial Class Form1
         'migPictureBox1
         '
         Me.migPictureBox1.Image = CType(resources.GetObject("migPictureBox1.Image"), System.Drawing.Image)
-        Me.migPictureBox1.Location = New System.Drawing.Point(686, 399)
+        Me.migPictureBox1.Location = New System.Drawing.Point(709, 342)
         Me.migPictureBox1.Name = "migPictureBox1"
-        Me.migPictureBox1.Size = New System.Drawing.Size(112, 57)
+        Me.migPictureBox1.Size = New System.Drawing.Size(91, 43)
         Me.migPictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
         Me.migPictureBox1.TabIndex = 34
         Me.migPictureBox1.TabStop = False
@@ -403,11 +406,32 @@ Partial Class Form1
         Me.speedlabel.Size = New System.Drawing.Size(0, 16)
         Me.speedlabel.TabIndex = 36
         '
+        'srButton
+        '
+        Me.srButton.Location = New System.Drawing.Point(725, 384)
+        Me.srButton.Name = "srButton"
+        Me.srButton.Size = New System.Drawing.Size(75, 23)
+        Me.srButton.TabIndex = 37
+        Me.srButton.Text = "SR-71"
+        Me.srButton.UseVisualStyleBackColor = True
+        '
+        'SRPictureBox
+        '
+        Me.SRPictureBox.Image = CType(resources.GetObject("SRPictureBox.Image"), System.Drawing.Image)
+        Me.SRPictureBox.Location = New System.Drawing.Point(710, 407)
+        Me.SRPictureBox.Name = "SRPictureBox"
+        Me.SRPictureBox.Size = New System.Drawing.Size(90, 39)
+        Me.SRPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
+        Me.SRPictureBox.TabIndex = 38
+        Me.SRPictureBox.TabStop = False
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.Controls.Add(Me.SRPictureBox)
+        Me.Controls.Add(Me.srButton)
         Me.Controls.Add(Me.speedlabel)
         Me.Controls.Add(Me.Label9)
         Me.Controls.Add(Me.migPictureBox1)
@@ -459,6 +483,7 @@ Partial Class Form1
         CType(Me.f35PictureBox, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.boeingPictureBox, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.migPictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.SRPictureBox, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -501,4 +526,6 @@ Partial Class Form1
     Friend WithEvents migPictureBox1 As PictureBox
     Friend WithEvents Label9 As Label
     Friend WithEvents speedlabel As Label
+    Friend WithEvents srButton As Button
+    Friend WithEvents SRPictureBox As PictureBox
 End Class

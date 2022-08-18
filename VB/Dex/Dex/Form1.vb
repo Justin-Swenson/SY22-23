@@ -115,4 +115,15 @@
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
     End Sub
+
+    Private Sub srButton_Click(sender As Object, e As EventArgs) Handles srButton.Click
+        displayPictureBox1.Image = SRPictureBox.Image
+        nameLabel6.Text = "Lockheed SR-71 Blackbird"
+        firstusedLabel6.Text = "1966"
+        retiredLabel6.Text = "1999"
+        lengthLabel6.Text = "56'"
+        longestflightLabel6.Text = "2 hours"
+        Length.Text = "107'"
+        speedlabel.Text = "2200 Mph."
+    End Sub
 End Class
