@@ -470,7 +470,7 @@ Partial Class Form1
         Me.Controls.Add(Me.displayPictureBox1)
         Me.Controls.Add(Me.Button1)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "Airplane Dex"
         CType(Me.displayPictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.BiplanePictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.b17PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()

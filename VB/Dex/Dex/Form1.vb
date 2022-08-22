@@ -126,4 +126,61 @@
         Length.Text = "107'"
         speedlabel.Text = "2200 Mph."
     End Sub
+
+    Private Sub srButton_MouseHover(sender As Object, e As EventArgs) Handles srButton.MouseHover
+        srButton.BackColor = Color.LightCyan
+    End Sub
+
+    Private Sub srButton_MouseLeave(sender As Object, e As EventArgs) Handles srButton.MouseLeave
+        srButton.BackColor = Color.White
+    End Sub
+
+    Private Sub mig25button_MouseHover(sender As Object, e As EventArgs) Handles mig25button.MouseHover
+        mig25button.BackColor = Color.LightCyan
+    End Sub
+
+    Private Sub mig25button_MouseLeave(sender As Object, e As EventArgs) Handles mig25button.MouseLeave
+        mig25button.BackColor = Color.White
+    End Sub
+
+    Private Sub Button5_MouseHover(sender As Object, e As EventArgs) Handles Button5.MouseHover
+        Button5.BackColor = Color.LightCyan
+    End Sub
+
+    Private Sub Button5_MouseLeave(sender As Object, e As EventArgs) Handles Button5.MouseLeave
+        Button5.BackColor = Color.White
+    End Sub
+
+    Private Sub Button4_MouseHover(sender As Object, e As EventArgs) Handles Button4.MouseHover
+        Button4.BackColor = Color.LightCyan
+    End Sub
+
+    Private Sub Button4_MouseLeave(sender As Object, e As EventArgs) Handles Button4.MouseLeave
+        Button4.BackColor = Color.White
+    End Sub
+
+
+    Private Sub Button3_MouseHover(sender As Object, e As EventArgs) Handles Button3.MouseHover
+        Button3.BackColor = Color.LightCyan
+    End Sub
+
+    Private Sub Button3_MouseLeave(sender As Object, e As EventArgs) Handles Button3.MouseLeave
+        Button3.BackColor = Color.White
+    End Sub
+
+    Private Sub Button2_MouseHover(sender As Object, e As EventArgs) Handles Button2.MouseHover
+        Button2.BackColor = Color.LightCyan
+    End Sub
+
+    Private Sub Button2_MouseLeave(sender As Object, e As EventArgs) Handles Button2.MouseLeave
+        Button2.BackColor = Color.White
+    End Sub
+
+    Private Sub Button1_MouseHover(sender As Object, e As EventArgs) Handles Button1.MouseHover
+        Button1.BackColor = Color.LightCyan
+    End Sub
+
+    Private Sub Button1_MouseLeave(sender As Object, e As EventArgs) Handles Button1.MouseLeave
+        Button1.BackColor = Color.White
+    End Sub
 End Class
