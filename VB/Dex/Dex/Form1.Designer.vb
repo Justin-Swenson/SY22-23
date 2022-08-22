@@ -91,7 +91,7 @@ Partial Class Form1
         Me.displayPictureBox1.Image = CType(resources.GetObject("displayPictureBox1.Image"), System.Drawing.Image)
         Me.displayPictureBox1.Location = New System.Drawing.Point(2, 136)
         Me.displayPictureBox1.Name = "displayPictureBox1"
-        Me.displayPictureBox1.Size = New System.Drawing.Size(433, 244)
+        Me.displayPictureBox1.Size = New System.Drawing.Size(433, 249)
         Me.displayPictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
         Me.displayPictureBox1.TabIndex = 1
         Me.displayPictureBox1.TabStop = False
