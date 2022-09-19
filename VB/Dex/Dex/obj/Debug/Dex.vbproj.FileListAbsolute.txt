@@ -1,0 +1,13 @@
+C:\Users\jlswe753\Documents\SY22-23\VB\Dex\Dex\bin\Debug\Dex.exe.config
+C:\Users\jlswe753\Documents\SY22-23\VB\Dex\Dex\bin\Debug\Dex.exe
+C:\Users\jlswe753\Documents\SY22-23\VB\Dex\Dex\bin\Debug\Dex.pdb
+C:\Users\jlswe753\Documents\SY22-23\VB\Dex\Dex\bin\Debug\Dex.xml
+C:\Users\jlswe753\Documents\SY22-23\VB\Dex\Dex\obj\Debug\Dex.vbproj.AssemblyReference.cache
+C:\Users\jlswe753\Documents\SY22-23\VB\Dex\Dex\obj\Debug\Dex.vbproj.SuggestedBindingRedirects.cache
+C:\Users\jlswe753\Documents\SY22-23\VB\Dex\Dex\obj\Debug\Dex.Form1.resources
+C:\Users\jlswe753\Documents\SY22-23\VB\Dex\Dex\obj\Debug\Dex.Resources.resources
+C:\Users\jlswe753\Documents\SY22-23\VB\Dex\Dex\obj\Debug\Dex.vbproj.GenerateResource.cache
+C:\Users\jlswe753\Documents\SY22-23\VB\Dex\Dex\obj\Debug\Dex.vbproj.CoreCompileInputs.cache
+C:\Users\jlswe753\Documents\SY22-23\VB\Dex\Dex\obj\Debug\Dex.exe
+C:\Users\jlswe753\Documents\SY22-23\VB\Dex\Dex\obj\Debug\Dex.xml
+C:\Users\jlswe753\Documents\SY22-23\VB\Dex\Dex\obj\Debug\Dex.pdb

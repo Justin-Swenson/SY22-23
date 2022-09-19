@@ -38,6 +38,12 @@ Partial Class Form1
         Me.Label4 = New System.Windows.Forms.Label()
         Me.Label5 = New System.Windows.Forms.Label()
         Me.Label6 = New System.Windows.Forms.Label()
+        Me.Button1 = New System.Windows.Forms.Button()
+        Me.Button2 = New System.Windows.Forms.Button()
+        Me.Button3 = New System.Windows.Forms.Button()
+        Me.Label7 = New System.Windows.Forms.Label()
+        Me.Label8 = New System.Windows.Forms.Label()
+        Me.Label9 = New System.Windows.Forms.Label()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox2, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox3, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -46,6 +52,7 @@ Partial Class Form1
         '
         'StorageButton
         '
+        Me.StorageButton.BackColor = System.Drawing.SystemColors.ControlLight
         Me.StorageButton.Font = New System.Drawing.Font("Mongolian Baiti", 16.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.StorageButton.Location = New System.Drawing.Point(434, 13)
         Me.StorageButton.Margin = New System.Windows.Forms.Padding(4)
@@ -53,10 +60,11 @@ Partial Class Form1
         Me.StorageButton.Size = New System.Drawing.Size(177, 69)
         Me.StorageButton.TabIndex = 0
         Me.StorageButton.Text = "Storage drives"
-        Me.StorageButton.UseVisualStyleBackColor = True
+        Me.StorageButton.UseVisualStyleBackColor = False
         '
         'GPUButton
         '
+        Me.GPUButton.BackColor = System.Drawing.SystemColors.ControlLight
         Me.GPUButton.Font = New System.Drawing.Font("Mongolian Baiti", 16.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.GPUButton.Location = New System.Drawing.Point(620, 13)
         Me.GPUButton.Margin = New System.Windows.Forms.Padding(4)
@@ -64,10 +72,11 @@ Partial Class Form1
         Me.GPUButton.Size = New System.Drawing.Size(177, 69)
         Me.GPUButton.TabIndex = 1
         Me.GPUButton.Text = "GPUs"
-        Me.GPUButton.UseVisualStyleBackColor = True
+        Me.GPUButton.UseVisualStyleBackColor = False
         '
         'LaptopsButton
         '
+        Me.LaptopsButton.BackColor = System.Drawing.SystemColors.ControlLight
         Me.LaptopsButton.Font = New System.Drawing.Font("Mongolian Baiti", 16.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.LaptopsButton.Location = New System.Drawing.Point(806, 13)
         Me.LaptopsButton.Margin = New System.Windows.Forms.Padding(4)
@@ -75,7 +84,7 @@ Partial Class Form1
         Me.LaptopsButton.Size = New System.Drawing.Size(177, 69)
         Me.LaptopsButton.TabIndex = 2
         Me.LaptopsButton.Text = "Laptops"
-        Me.LaptopsButton.UseVisualStyleBackColor = True
+        Me.LaptopsButton.UseVisualStyleBackColor = False
         '
         'PictureBox1
         '
@@ -90,6 +99,7 @@ Partial Class Form1
         '
         'Button4
         '
+        Me.Button4.BackColor = System.Drawing.SystemColors.ControlLight
         Me.Button4.Font = New System.Drawing.Font("Mongolian Baiti", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button4.Location = New System.Drawing.Point(864, 459)
         Me.Button4.Margin = New System.Windows.Forms.Padding(4)
@@ -97,10 +107,11 @@ Partial Class Form1
         Me.Button4.Size = New System.Drawing.Size(123, 42)
         Me.Button4.TabIndex = 4
         Me.Button4.Text = "Exit"
-        Me.Button4.UseVisualStyleBackColor = True
+        Me.Button4.UseVisualStyleBackColor = False
         '
         'CheckoutButton
         '
+        Me.CheckoutButton.BackColor = System.Drawing.SystemColors.ControlLight
         Me.CheckoutButton.Font = New System.Drawing.Font("Mongolian Baiti", 16.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.CheckoutButton.Location = New System.Drawing.Point(620, 90)
         Me.CheckoutButton.Margin = New System.Windows.Forms.Padding(4)
@@ -108,7 +119,7 @@ Partial Class Form1
         Me.CheckoutButton.Size = New System.Drawing.Size(177, 69)
         Me.CheckoutButton.TabIndex = 5
         Me.CheckoutButton.Text = "Checkout"
-        Me.CheckoutButton.UseVisualStyleBackColor = True
+        Me.CheckoutButton.UseVisualStyleBackColor = False
         '
         'PictureBox2
         '
@@ -197,22 +208,91 @@ Partial Class Form1
         'Label6
         '
         Me.Label6.AutoSize = True
-        Me.Label6.Location = New System.Drawing.Point(681, 406)
+        Me.Label6.Location = New System.Drawing.Point(681, 407)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(89, 18)
         Me.Label6.TabIndex = 14
         Me.Label6.Text = "See laptops"
+        '
+        'Button1
+        '
+        Me.Button1.BackColor = System.Drawing.SystemColors.ControlLight
+        Me.Button1.Font = New System.Drawing.Font("Mongolian Baiti", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button1.Location = New System.Drawing.Point(33, 401)
+        Me.Button1.Margin = New System.Windows.Forms.Padding(4)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(125, 28)
+        Me.Button1.TabIndex = 15
+        Me.Button1.Text = "Storage drives"
+        Me.Button1.UseVisualStyleBackColor = False
+        '
+        'Button2
+        '
+        Me.Button2.BackColor = System.Drawing.SystemColors.ControlLight
+        Me.Button2.Font = New System.Drawing.Font("Mongolian Baiti", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button2.Location = New System.Drawing.Point(354, 399)
+        Me.Button2.Margin = New System.Windows.Forms.Padding(4)
+        Me.Button2.Name = "Button2"
+        Me.Button2.Size = New System.Drawing.Size(61, 29)
+        Me.Button2.TabIndex = 16
+        Me.Button2.Text = "GPUs"
+        Me.Button2.UseVisualStyleBackColor = False
+        '
+        'Button3
+        '
+        Me.Button3.BackColor = System.Drawing.SystemColors.ControlLight
+        Me.Button3.Font = New System.Drawing.Font("Mongolian Baiti", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button3.Location = New System.Drawing.Point(709, 401)
+        Me.Button3.Margin = New System.Windows.Forms.Padding(4)
+        Me.Button3.Name = "Button3"
+        Me.Button3.Size = New System.Drawing.Size(75, 29)
+        Me.Button3.TabIndex = 17
+        Me.Button3.Text = "Laptops"
+        Me.Button3.UseVisualStyleBackColor = False
+        '
+        'Label7
+        '
+        Me.Label7.AutoSize = True
+        Me.Label7.Location = New System.Drawing.Point(96, 381)
+        Me.Label7.Name = "Label7"
+        Me.Label7.Size = New System.Drawing.Size(72, 18)
+        Me.Label7.TabIndex = 18
+        Me.Label7.Text = "-$109.99"
+        '
+        'Label8
+        '
+        Me.Label8.AutoSize = True
+        Me.Label8.Location = New System.Drawing.Point(382, 381)
+        Me.Label8.Name = "Label8"
+        Me.Label8.Size = New System.Drawing.Size(72, 18)
+        Me.Label8.TabIndex = 19
+        Me.Label8.Text = "-$239.99"
+        '
+        'Label9
+        '
+        Me.Label9.AutoSize = True
+        Me.Label9.Location = New System.Drawing.Point(875, 382)
+        Me.Label9.Name = "Label9"
+        Me.Label9.Size = New System.Drawing.Size(50, 18)
+        Me.Label9.TabIndex = 20
+        Me.Label9.Text = "-$481"
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(10.0!, 18.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(1000, 514)
+        Me.Controls.Add(Me.Label8)
+        Me.Controls.Add(Me.Label2)
+        Me.Controls.Add(Me.Label9)
+        Me.Controls.Add(Me.Label3)
+        Me.Controls.Add(Me.Button2)
+        Me.Controls.Add(Me.Label7)
+        Me.Controls.Add(Me.Button3)
+        Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.Label6)
         Me.Controls.Add(Me.Label5)
         Me.Controls.Add(Me.Label4)
-        Me.Controls.Add(Me.Label3)
-        Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.PictureBox4)
         Me.Controls.Add(Me.PictureBox3)
@@ -251,4 +331,10 @@ Partial Class Form1
     Friend WithEvents Label4 As Label
     Friend WithEvents Label5 As Label
     Friend WithEvents Label6 As Label
+    Friend WithEvents Button1 As Button
+    Friend WithEvents Button2 As Button
+    Friend WithEvents Button3 As Button
+    Friend WithEvents Label7 As Label
+    Friend WithEvents Label8 As Label
+    Friend WithEvents Label9 As Label
 End Class

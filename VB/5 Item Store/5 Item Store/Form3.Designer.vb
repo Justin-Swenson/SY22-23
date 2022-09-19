@@ -113,7 +113,7 @@ Partial Class Form3
         'Label5
         '
         Me.Label5.AutoSize = True
-        Me.Label5.Location = New System.Drawing.Point(25, 273)
+        Me.Label5.Location = New System.Drawing.Point(10, 253)
         Me.Label5.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(82, 18)
@@ -123,7 +123,7 @@ Partial Class Form3
         'Label6
         '
         Me.Label6.AutoSize = True
-        Me.Label6.Location = New System.Drawing.Point(25, 294)
+        Me.Label6.Location = New System.Drawing.Point(10, 274)
         Me.Label6.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(176, 18)
@@ -133,7 +133,7 @@ Partial Class Form3
         'Label7
         '
         Me.Label7.AutoSize = True
-        Me.Label7.Location = New System.Drawing.Point(25, 314)
+        Me.Label7.Location = New System.Drawing.Point(10, 294)
         Me.Label7.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label7.Name = "Label7"
         Me.Label7.Size = New System.Drawing.Size(103, 18)
@@ -143,7 +143,7 @@ Partial Class Form3
         'Label8
         '
         Me.Label8.AutoSize = True
-        Me.Label8.Location = New System.Drawing.Point(508, 273)
+        Me.Label8.Location = New System.Drawing.Point(506, 253)
         Me.Label8.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label8.Name = "Label8"
         Me.Label8.Size = New System.Drawing.Size(82, 18)
@@ -153,7 +153,7 @@ Partial Class Form3
         'Label9
         '
         Me.Label9.AutoSize = True
-        Me.Label9.Location = New System.Drawing.Point(508, 293)
+        Me.Label9.Location = New System.Drawing.Point(506, 273)
         Me.Label9.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label9.Name = "Label9"
         Me.Label9.Size = New System.Drawing.Size(178, 18)
@@ -163,7 +163,7 @@ Partial Class Form3
         'Label10
         '
         Me.Label10.AutoSize = True
-        Me.Label10.Location = New System.Drawing.Point(508, 314)
+        Me.Label10.Location = New System.Drawing.Point(506, 294)
         Me.Label10.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label10.Name = "Label10"
         Me.Label10.Size = New System.Drawing.Size(178, 18)

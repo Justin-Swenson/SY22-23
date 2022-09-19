@@ -156,7 +156,7 @@ Partial Class Form6
         '
         Me.Label5.AutoSize = True
         Me.Label5.Font = New System.Drawing.Font("Mongolian Baiti", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label5.Location = New System.Drawing.Point(19, 275)
+        Me.Label5.Location = New System.Drawing.Point(17, 262)
         Me.Label5.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(167, 18)
@@ -167,7 +167,7 @@ Partial Class Form6
         '
         Me.Label6.AutoSize = True
         Me.Label6.Font = New System.Drawing.Font("Mongolian Baiti", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label6.Location = New System.Drawing.Point(17, 298)
+        Me.Label6.Location = New System.Drawing.Point(17, 285)
         Me.Label6.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(110, 18)
@@ -178,7 +178,7 @@ Partial Class Form6
         '
         Me.Label7.AutoSize = True
         Me.Label7.Font = New System.Drawing.Font("Mongolian Baiti", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label7.Location = New System.Drawing.Point(17, 320)
+        Me.Label7.Location = New System.Drawing.Point(17, 307)
         Me.Label7.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label7.Name = "Label7"
         Me.Label7.Size = New System.Drawing.Size(96, 18)
@@ -211,7 +211,7 @@ Partial Class Form6
         '
         Me.Label10.AutoSize = True
         Me.Label10.Font = New System.Drawing.Font("Mongolian Baiti", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label10.Location = New System.Drawing.Point(480, 275)
+        Me.Label10.Location = New System.Drawing.Point(480, 262)
         Me.Label10.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label10.Name = "Label10"
         Me.Label10.Size = New System.Drawing.Size(98, 18)
@@ -222,7 +222,7 @@ Partial Class Form6
         '
         Me.Label11.AutoSize = True
         Me.Label11.Font = New System.Drawing.Font("Mongolian Baiti", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label11.Location = New System.Drawing.Point(480, 298)
+        Me.Label11.Location = New System.Drawing.Point(480, 285)
         Me.Label11.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label11.Name = "Label11"
         Me.Label11.Size = New System.Drawing.Size(101, 18)
@@ -233,7 +233,7 @@ Partial Class Form6
         '
         Me.Label12.AutoSize = True
         Me.Label12.Font = New System.Drawing.Font("Mongolian Baiti", 10.2!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label12.Location = New System.Drawing.Point(480, 320)
+        Me.Label12.Location = New System.Drawing.Point(480, 307)
         Me.Label12.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label12.Name = "Label12"
         Me.Label12.Size = New System.Drawing.Size(96, 18)

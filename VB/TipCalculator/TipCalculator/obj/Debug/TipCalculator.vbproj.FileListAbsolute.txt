@@ -1,0 +1,13 @@
+C:\Users\jlswe753\Documents\SY22-23\VB\TipCalculator\TipCalculator\bin\Debug\TipCalculator.exe.config
+C:\Users\jlswe753\Documents\SY22-23\VB\TipCalculator\TipCalculator\bin\Debug\TipCalculator.exe
+C:\Users\jlswe753\Documents\SY22-23\VB\TipCalculator\TipCalculator\bin\Debug\TipCalculator.pdb
+C:\Users\jlswe753\Documents\SY22-23\VB\TipCalculator\TipCalculator\bin\Debug\TipCalculator.xml
+C:\Users\jlswe753\Documents\SY22-23\VB\TipCalculator\TipCalculator\obj\Debug\TipCalculator.vbproj.AssemblyReference.cache
+C:\Users\jlswe753\Documents\SY22-23\VB\TipCalculator\TipCalculator\obj\Debug\TipCalculator.vbproj.SuggestedBindingRedirects.cache
+C:\Users\jlswe753\Documents\SY22-23\VB\TipCalculator\TipCalculator\obj\Debug\TipCalculator.Form1.resources
+C:\Users\jlswe753\Documents\SY22-23\VB\TipCalculator\TipCalculator\obj\Debug\TipCalculator.Resources.resources
+C:\Users\jlswe753\Documents\SY22-23\VB\TipCalculator\TipCalculator\obj\Debug\TipCalculator.vbproj.GenerateResource.cache
+C:\Users\jlswe753\Documents\SY22-23\VB\TipCalculator\TipCalculator\obj\Debug\TipCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\jlswe753\Documents\SY22-23\VB\TipCalculator\TipCalculator\obj\Debug\TipCalculator.exe
+C:\Users\jlswe753\Documents\SY22-23\VB\TipCalculator\TipCalculator\obj\Debug\TipCalculator.xml
+C:\Users\jlswe753\Documents\SY22-23\VB\TipCalculator\TipCalculator\obj\Debug\TipCalculator.pdb

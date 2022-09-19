@@ -1,0 +1,18 @@
+C:\Users\jlswe753\Documents\SY22-23\VB\5 Item Store\5 Item Store\bin\Debug\5 Item Store.exe.config
+C:\Users\jlswe753\Documents\SY22-23\VB\5 Item Store\5 Item Store\bin\Debug\5 Item Store.exe
+C:\Users\jlswe753\Documents\SY22-23\VB\5 Item Store\5 Item Store\bin\Debug\5 Item Store.pdb
+C:\Users\jlswe753\Documents\SY22-23\VB\5 Item Store\5 Item Store\bin\Debug\5 Item Store.xml
+C:\Users\jlswe753\Documents\SY22-23\VB\5 Item Store\5 Item Store\obj\Debug\5 Item Store.vbproj.AssemblyReference.cache
+C:\Users\jlswe753\Documents\SY22-23\VB\5 Item Store\5 Item Store\obj\Debug\5 Item Store.vbproj.SuggestedBindingRedirects.cache
+C:\Users\jlswe753\Documents\SY22-23\VB\5 Item Store\5 Item Store\obj\Debug\_5_Item_Store.Form1.resources
+C:\Users\jlswe753\Documents\SY22-23\VB\5 Item Store\5 Item Store\obj\Debug\_5_Item_Store.Form2.resources
+C:\Users\jlswe753\Documents\SY22-23\VB\5 Item Store\5 Item Store\obj\Debug\_5_Item_Store.Form3.resources
+C:\Users\jlswe753\Documents\SY22-23\VB\5 Item Store\5 Item Store\obj\Debug\_5_Item_Store.Form4.resources
+C:\Users\jlswe753\Documents\SY22-23\VB\5 Item Store\5 Item Store\obj\Debug\_5_Item_Store.Form5.resources
+C:\Users\jlswe753\Documents\SY22-23\VB\5 Item Store\5 Item Store\obj\Debug\_5_Item_Store.Form6.resources
+C:\Users\jlswe753\Documents\SY22-23\VB\5 Item Store\5 Item Store\obj\Debug\_5_Item_Store.Resources.resources
+C:\Users\jlswe753\Documents\SY22-23\VB\5 Item Store\5 Item Store\obj\Debug\5 Item Store.vbproj.GenerateResource.cache
+C:\Users\jlswe753\Documents\SY22-23\VB\5 Item Store\5 Item Store\obj\Debug\5 Item Store.vbproj.CoreCompileInputs.cache
+C:\Users\jlswe753\Documents\SY22-23\VB\5 Item Store\5 Item Store\obj\Debug\5 Item Store.exe
+C:\Users\jlswe753\Documents\SY22-23\VB\5 Item Store\5 Item Store\obj\Debug\5 Item Store.xml
+C:\Users\jlswe753\Documents\SY22-23\VB\5 Item Store\5 Item Store\obj\Debug\5 Item Store.pdb

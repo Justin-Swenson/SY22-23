@@ -117,7 +117,7 @@ Partial Class Form4
         'Label4
         '
         Me.Label4.AutoSize = True
-        Me.Label4.Location = New System.Drawing.Point(21, 148)
+        Me.Label4.Location = New System.Drawing.Point(20, 148)
         Me.Label4.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(66, 18)
@@ -143,7 +143,7 @@ Partial Class Form4
         'Label5
         '
         Me.Label5.AutoSize = True
-        Me.Label5.Location = New System.Drawing.Point(21, 86)
+        Me.Label5.Location = New System.Drawing.Point(20, 86)
         Me.Label5.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(145, 18)
@@ -161,7 +161,7 @@ Partial Class Form4
         'Label6
         '
         Me.Label6.AutoSize = True
-        Me.Label6.Location = New System.Drawing.Point(21, 22)
+        Me.Label6.Location = New System.Drawing.Point(20, 22)
         Me.Label6.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(49, 18)
@@ -179,7 +179,7 @@ Partial Class Form4
         'Label7
         '
         Me.Label7.AutoSize = True
-        Me.Label7.Location = New System.Drawing.Point(21, 212)
+        Me.Label7.Location = New System.Drawing.Point(20, 212)
         Me.Label7.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.Label7.Name = "Label7"
         Me.Label7.Size = New System.Drawing.Size(70, 18)
@@ -202,7 +202,7 @@ Partial Class Form4
         Me.Label8.Font = New System.Drawing.Font("Mongolian Baiti", 19.8!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label8.Location = New System.Drawing.Point(396, 22)
         Me.Label8.Name = "Label8"
-        Me.Label8.Size = New System.Drawing.Size(509, 36)
+        Me.Label8.Size = New System.Drawing.Size(502, 35)
         Me.Label8.TabIndex = 29
         Me.Label8.Text = "Thank you for shopping at Samsung"
         '
@@ -220,6 +220,7 @@ Partial Class Form4
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(10.0!, 18.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.BackColor = System.Drawing.SystemColors.Control
         Me.ClientSize = New System.Drawing.Size(1000, 550)
         Me.Controls.Add(Me.PictureBox1)
         Me.Controls.Add(Me.Label8)
