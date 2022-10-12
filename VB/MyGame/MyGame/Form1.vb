@@ -60,6 +60,7 @@ Public Class Form1
     End Sub
 
     'You can make items appear using a time
+<<<<<<< Updated upstream
     Private Sub Timer2_Tick(sender As Object, e As EventArgs) Handles Timer2.Tick
         '   AddAt(BulletPictureBox2, New Point(0, 0), "CHASE")
         'AddAt(BulletPictureBox2, New Point(10, 5), "FOLLOW")
@@ -71,6 +72,12 @@ Public Class Form1
         path(3) = New Point(-10, -5)
         AddAt(BulletPictureBox2, New Point(20, 20), path)
 
+=======
+    Private Sub Timer2_Tick(sender As Object, e As EventArgs) Handles Timer2.Tick
+        'AddAt(BulletPictureBox2, New Point(0, 0), "CHASE")
+        AddAt(BulletPictureBox2, New Point(10, 5), "FOLLOW")
+        'AddAt(BulletPictureBox2, New Point(5, 15), "RANDOM")
+>>>>>>> Stashed changes
     End Sub
 
 
