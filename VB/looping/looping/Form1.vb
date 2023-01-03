@@ -61,11 +61,9 @@ Public Class Form1
 
     Private Sub Label1_Click(sender As Object, e As EventArgs) Handles Label1.Click
         For index = 1 To 100 Step 10
-            For index2 = 1 To 100 Step 10
-                AddAt(Badguy1, New Point(index2 * 10, index * 10), New Point(0, 10))
-            Next
 
-            AddAt(Badguy1, New Point(index * 10, 0), "CHASE")
+
+            AddAt(Badguy1, New Point(index * 10, 0), "follow")
         Next
     End Sub
 

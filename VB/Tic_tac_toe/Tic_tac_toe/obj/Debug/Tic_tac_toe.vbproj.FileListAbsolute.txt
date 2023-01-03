@@ -1,0 +1,13 @@
+C:\Users\jlswe753\Documents\SY22-23\VB\Tic_tac_toe\Tic_tac_toe\bin\Debug\Tic_tac_toe.exe.config
+C:\Users\jlswe753\Documents\SY22-23\VB\Tic_tac_toe\Tic_tac_toe\bin\Debug\Tic_tac_toe.exe
+C:\Users\jlswe753\Documents\SY22-23\VB\Tic_tac_toe\Tic_tac_toe\bin\Debug\Tic_tac_toe.pdb
+C:\Users\jlswe753\Documents\SY22-23\VB\Tic_tac_toe\Tic_tac_toe\bin\Debug\Tic_tac_toe.xml
+C:\Users\jlswe753\Documents\SY22-23\VB\Tic_tac_toe\Tic_tac_toe\obj\Debug\Tic_tac_toe.vbproj.AssemblyReference.cache
+C:\Users\jlswe753\Documents\SY22-23\VB\Tic_tac_toe\Tic_tac_toe\obj\Debug\Tic_tac_toe.vbproj.SuggestedBindingRedirects.cache
+C:\Users\jlswe753\Documents\SY22-23\VB\Tic_tac_toe\Tic_tac_toe\obj\Debug\Tic_tac_toe.Form1.resources
+C:\Users\jlswe753\Documents\SY22-23\VB\Tic_tac_toe\Tic_tac_toe\obj\Debug\Tic_tac_toe.Resources.resources
+C:\Users\jlswe753\Documents\SY22-23\VB\Tic_tac_toe\Tic_tac_toe\obj\Debug\Tic_tac_toe.vbproj.GenerateResource.cache
+C:\Users\jlswe753\Documents\SY22-23\VB\Tic_tac_toe\Tic_tac_toe\obj\Debug\Tic_tac_toe.vbproj.CoreCompileInputs.cache
+C:\Users\jlswe753\Documents\SY22-23\VB\Tic_tac_toe\Tic_tac_toe\obj\Debug\Tic_tac_toe.exe
+C:\Users\jlswe753\Documents\SY22-23\VB\Tic_tac_toe\Tic_tac_toe\obj\Debug\Tic_tac_toe.xml
+C:\Users\jlswe753\Documents\SY22-23\VB\Tic_tac_toe\Tic_tac_toe\obj\Debug\Tic_tac_toe.pdb
