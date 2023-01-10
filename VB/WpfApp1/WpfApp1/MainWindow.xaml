@@ -5,10 +5,44 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp1"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="863">
     <Grid>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="616,244,0,0" VerticalAlignment="Top" Click="Button_Click"/>
-        <TextBox x:Name="textbox1" HorizontalAlignment="Left" Margin="345,217,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="500*"/>
+            <ColumnDefinition Width="304*"/>
+            <ColumnDefinition Width="59*"/>
+        </Grid.ColumnDefinitions>
+
+        <Menu Grid.ColumnSpan="3" Margin="0,0,0,-1">
+            <MenuItem Header="_File">
+                <MenuItem Header="_New" Click="new_click"/>
+                <MenuItem Header="_open" Click="open_click"/>
+                <MenuItem Header="_Save" Click="Save_click"/>
+                <Separator/>
+                <MenuItem Header="_Exit" Click="exit_click"/>
+            </MenuItem>
+            <MenuItem Header="_Edit">
+                <MenuItem Command="ApplicationCommands.Copy"/>
+                <MenuItem Command="ApplicationCommands.Cut"/>
+                <MenuItem Command="ApplicationCommands.Paste"/>
+            </MenuItem>
+            <MenuItem Header="_Font">
+                <MenuItem Header="_Bold" IsCheckable="True"
+              Checked="Bold_Checked"
+              Unchecked="Bold_Unchecked"/>
+                <MenuItem Header="_Italic" IsCheckable="True"
+              Checked="Italic_Checked"
+              Unchecked="Italic_Unchecked"/>
+                <Separator/>
+                <MenuItem Header="I_ncrease Font Size"
+              Click="IncreaseFont_Click"/>
+                <MenuItem Header="_Decrease Font Size"
+              Click="DecreaseFont_Click"/>
+            </MenuItem>
+           
+         
+        </Menu>
+        <TextBox x:Name="textbox1" HorizontalAlignment="Left" Margin="10,22,0,10" TextWrapping="Wrap" Width="843" Grid.ColumnSpan="3" Text="The quick brown fox jumps over the lazy dog."/>
 
     </Grid>
 </Window>
