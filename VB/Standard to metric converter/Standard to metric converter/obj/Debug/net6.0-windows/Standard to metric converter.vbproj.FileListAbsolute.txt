@@ -1,0 +1,21 @@
+C:\Users\jlswe753\Desktop\SY22-23\VB\Standard to metric converter\Standard to metric converter\bin\Debug\net6.0-windows\Standard to metric converter.exe
+C:\Users\jlswe753\Desktop\SY22-23\VB\Standard to metric converter\Standard to metric converter\bin\Debug\net6.0-windows\Standard to metric converter.deps.json
+C:\Users\jlswe753\Desktop\SY22-23\VB\Standard to metric converter\Standard to metric converter\bin\Debug\net6.0-windows\Standard to metric converter.runtimeconfig.json
+C:\Users\jlswe753\Desktop\SY22-23\VB\Standard to metric converter\Standard to metric converter\bin\Debug\net6.0-windows\Standard to metric converter.dll
+C:\Users\jlswe753\Desktop\SY22-23\VB\Standard to metric converter\Standard to metric converter\bin\Debug\net6.0-windows\Standard to metric converter.pdb
+C:\Users\jlswe753\Desktop\SY22-23\VB\Standard to metric converter\Standard to metric converter\obj\Debug\net6.0-windows\Standard to metric converter.vbproj.AssemblyReference.cache
+C:\Users\jlswe753\Desktop\SY22-23\VB\Standard to metric converter\Standard to metric converter\obj\Debug\net6.0-windows\MainWindow.g.vb
+C:\Users\jlswe753\Desktop\SY22-23\VB\Standard to metric converter\Standard to metric converter\obj\Debug\net6.0-windows\Application.g.vb
+C:\Users\jlswe753\Desktop\SY22-23\VB\Standard to metric converter\Standard to metric converter\obj\Debug\net6.0-windows\Standard to metric converter_MarkupCompile.cache
+C:\Users\jlswe753\Desktop\SY22-23\VB\Standard to metric converter\Standard to metric converter\obj\Debug\net6.0-windows\Standard to metric converter_MarkupCompile.lref
+C:\Users\jlswe753\Desktop\SY22-23\VB\Standard to metric converter\Standard to metric converter\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\jlswe753\Desktop\SY22-23\VB\Standard to metric converter\Standard to metric converter\obj\Debug\net6.0-windows\Standard to metric converter.g.resources
+C:\Users\jlswe753\Desktop\SY22-23\VB\Standard to metric converter\Standard to metric converter\obj\Debug\net6.0-windows\Standard to metric converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlswe753\Desktop\SY22-23\VB\Standard to metric converter\Standard to metric converter\obj\Debug\net6.0-windows\Standard to metric converter.AssemblyInfoInputs.cache
+C:\Users\jlswe753\Desktop\SY22-23\VB\Standard to metric converter\Standard to metric converter\obj\Debug\net6.0-windows\Standard to metric converter.AssemblyInfo.vb
+C:\Users\jlswe753\Desktop\SY22-23\VB\Standard to metric converter\Standard to metric converter\obj\Debug\net6.0-windows\Standard to metric converter.vbproj.CoreCompileInputs.cache
+C:\Users\jlswe753\Desktop\SY22-23\VB\Standard to metric converter\Standard to metric converter\obj\Debug\net6.0-windows\Standard to metric converter.dll
+C:\Users\jlswe753\Desktop\SY22-23\VB\Standard to metric converter\Standard to metric converter\obj\Debug\net6.0-windows\refint\Standard to metric converter.dll
+C:\Users\jlswe753\Desktop\SY22-23\VB\Standard to metric converter\Standard to metric converter\obj\Debug\net6.0-windows\Standard to metric converter.pdb
+C:\Users\jlswe753\Desktop\SY22-23\VB\Standard to metric converter\Standard to metric converter\obj\Debug\net6.0-windows\Standard to metric converter.genruntimeconfig.cache
+C:\Users\jlswe753\Desktop\SY22-23\VB\Standard to metric converter\Standard to metric converter\obj\Debug\net6.0-windows\ref\Standard to metric converter.dll

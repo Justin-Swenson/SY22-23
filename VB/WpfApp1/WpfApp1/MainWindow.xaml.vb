@@ -68,7 +68,7 @@ Class MainWindow
         filewriter.Close()
     End Sub
     Private Sub New_click()
-
+        textbox1.Text = ""
     End Sub
     Private Sub Save_click()
         ' Create OpenFileDialog

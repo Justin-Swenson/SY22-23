@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Knock-Off Mario", "Knock-Off Mario\Knock-Off Mario.vbproj", "{8D1B4AE4-FFC8-48C3-BF42-6959C7067012}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AE15F1F7-0327-42DE-BAD9-B9FCF9BDD707}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D1B4AE4-FFC8-48C3-BF42-6959C7067012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D1B4AE4-FFC8-48C3-BF42-6959C7067012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D1B4AE4-FFC8-48C3-BF42-6959C7067012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D1B4AE4-FFC8-48C3-BF42-6959C7067012}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C142D0B-2FE3-4531-99C1-9D9E42720C65}
+	EndGlobalSection
+EndGlobal

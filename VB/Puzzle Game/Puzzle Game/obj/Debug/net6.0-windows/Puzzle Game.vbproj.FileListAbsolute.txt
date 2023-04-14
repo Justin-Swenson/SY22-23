@@ -1,0 +1,17 @@
+C:\Users\jlswe753\Desktop\SY22-23\VB\Puzzle Game\Puzzle Game\bin\Debug\net6.0-windows\Puzzle Game.exe
+C:\Users\jlswe753\Desktop\SY22-23\VB\Puzzle Game\Puzzle Game\bin\Debug\net6.0-windows\Puzzle Game.deps.json
+C:\Users\jlswe753\Desktop\SY22-23\VB\Puzzle Game\Puzzle Game\bin\Debug\net6.0-windows\Puzzle Game.runtimeconfig.json
+C:\Users\jlswe753\Desktop\SY22-23\VB\Puzzle Game\Puzzle Game\bin\Debug\net6.0-windows\Puzzle Game.dll
+C:\Users\jlswe753\Desktop\SY22-23\VB\Puzzle Game\Puzzle Game\bin\Debug\net6.0-windows\Puzzle Game.pdb
+C:\Users\jlswe753\Desktop\SY22-23\VB\Puzzle Game\Puzzle Game\obj\Debug\net6.0-windows\Puzzle Game.vbproj.AssemblyReference.cache
+C:\Users\jlswe753\Desktop\SY22-23\VB\Puzzle Game\Puzzle Game\obj\Debug\net6.0-windows\Puzzle_Game.Form1.resources
+C:\Users\jlswe753\Desktop\SY22-23\VB\Puzzle Game\Puzzle Game\obj\Debug\net6.0-windows\Puzzle Game.vbproj.GenerateResource.cache
+C:\Users\jlswe753\Desktop\SY22-23\VB\Puzzle Game\Puzzle Game\obj\Debug\net6.0-windows\Puzzle Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlswe753\Desktop\SY22-23\VB\Puzzle Game\Puzzle Game\obj\Debug\net6.0-windows\Puzzle Game.AssemblyInfoInputs.cache
+C:\Users\jlswe753\Desktop\SY22-23\VB\Puzzle Game\Puzzle Game\obj\Debug\net6.0-windows\Puzzle Game.AssemblyInfo.vb
+C:\Users\jlswe753\Desktop\SY22-23\VB\Puzzle Game\Puzzle Game\obj\Debug\net6.0-windows\Puzzle Game.vbproj.CoreCompileInputs.cache
+C:\Users\jlswe753\Desktop\SY22-23\VB\Puzzle Game\Puzzle Game\obj\Debug\net6.0-windows\Puzzle Game.dll
+C:\Users\jlswe753\Desktop\SY22-23\VB\Puzzle Game\Puzzle Game\obj\Debug\net6.0-windows\refint\Puzzle Game.dll
+C:\Users\jlswe753\Desktop\SY22-23\VB\Puzzle Game\Puzzle Game\obj\Debug\net6.0-windows\Puzzle Game.pdb
+C:\Users\jlswe753\Desktop\SY22-23\VB\Puzzle Game\Puzzle Game\obj\Debug\net6.0-windows\Puzzle Game.genruntimeconfig.cache
+C:\Users\jlswe753\Desktop\SY22-23\VB\Puzzle Game\Puzzle Game\obj\Debug\net6.0-windows\ref\Puzzle Game.dll

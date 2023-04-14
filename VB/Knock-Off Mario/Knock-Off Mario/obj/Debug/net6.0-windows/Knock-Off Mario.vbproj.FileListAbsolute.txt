@@ -1,0 +1,18 @@
+C:\Users\jlswe753\Desktop\SY22-23\VB\Knock-Off Mario\Knock-Off Mario\bin\Debug\net6.0-windows\Knock-Off Mario.exe
+C:\Users\jlswe753\Desktop\SY22-23\VB\Knock-Off Mario\Knock-Off Mario\bin\Debug\net6.0-windows\Knock-Off Mario.deps.json
+C:\Users\jlswe753\Desktop\SY22-23\VB\Knock-Off Mario\Knock-Off Mario\bin\Debug\net6.0-windows\Knock-Off Mario.runtimeconfig.json
+C:\Users\jlswe753\Desktop\SY22-23\VB\Knock-Off Mario\Knock-Off Mario\bin\Debug\net6.0-windows\Knock-Off Mario.dll
+C:\Users\jlswe753\Desktop\SY22-23\VB\Knock-Off Mario\Knock-Off Mario\bin\Debug\net6.0-windows\Knock-Off Mario.pdb
+C:\Users\jlswe753\Desktop\SY22-23\VB\Knock-Off Mario\Knock-Off Mario\obj\Debug\net6.0-windows\Knock-Off Mario.vbproj.AssemblyReference.cache
+C:\Users\jlswe753\Desktop\SY22-23\VB\Knock-Off Mario\Knock-Off Mario\obj\Debug\net6.0-windows\Knock_Off_Mario.Form1.resources
+C:\Users\jlswe753\Desktop\SY22-23\VB\Knock-Off Mario\Knock-Off Mario\obj\Debug\net6.0-windows\Knock-Off Mario.vbproj.GenerateResource.cache
+C:\Users\jlswe753\Desktop\SY22-23\VB\Knock-Off Mario\Knock-Off Mario\obj\Debug\net6.0-windows\Knock-Off Mario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlswe753\Desktop\SY22-23\VB\Knock-Off Mario\Knock-Off Mario\obj\Debug\net6.0-windows\Knock-Off Mario.AssemblyInfoInputs.cache
+C:\Users\jlswe753\Desktop\SY22-23\VB\Knock-Off Mario\Knock-Off Mario\obj\Debug\net6.0-windows\Knock-Off Mario.AssemblyInfo.vb
+C:\Users\jlswe753\Desktop\SY22-23\VB\Knock-Off Mario\Knock-Off Mario\obj\Debug\net6.0-windows\Knock-Off Mario.vbproj.CoreCompileInputs.cache
+C:\Users\jlswe753\Desktop\SY22-23\VB\Knock-Off Mario\Knock-Off Mario\obj\Debug\net6.0-windows\Knock-Off Mario.dll
+C:\Users\jlswe753\Desktop\SY22-23\VB\Knock-Off Mario\Knock-Off Mario\obj\Debug\net6.0-windows\refint\Knock-Off Mario.dll
+C:\Users\jlswe753\Desktop\SY22-23\VB\Knock-Off Mario\Knock-Off Mario\obj\Debug\net6.0-windows\Knock-Off Mario.pdb
+C:\Users\jlswe753\Desktop\SY22-23\VB\Knock-Off Mario\Knock-Off Mario\obj\Debug\net6.0-windows\Knock-Off Mario.genruntimeconfig.cache
+C:\Users\jlswe753\Desktop\SY22-23\VB\Knock-Off Mario\Knock-Off Mario\obj\Debug\net6.0-windows\ref\Knock-Off Mario.dll
+C:\Users\jlswe753\Desktop\SY22-23\VB\Knock-Off Mario\Knock-Off Mario\obj\Debug\net6.0-windows\Knock_Off_Mario.Resources.resources

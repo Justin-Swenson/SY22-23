@@ -1,0 +1,21 @@
+C:\Users\jlswe753\Desktop\SY22-23\VB\Carpet Calculator\Carpet Calculator\bin\Debug\net6.0-windows\Carpet Calculator.exe
+C:\Users\jlswe753\Desktop\SY22-23\VB\Carpet Calculator\Carpet Calculator\bin\Debug\net6.0-windows\Carpet Calculator.deps.json
+C:\Users\jlswe753\Desktop\SY22-23\VB\Carpet Calculator\Carpet Calculator\bin\Debug\net6.0-windows\Carpet Calculator.runtimeconfig.json
+C:\Users\jlswe753\Desktop\SY22-23\VB\Carpet Calculator\Carpet Calculator\bin\Debug\net6.0-windows\Carpet Calculator.dll
+C:\Users\jlswe753\Desktop\SY22-23\VB\Carpet Calculator\Carpet Calculator\bin\Debug\net6.0-windows\Carpet Calculator.pdb
+C:\Users\jlswe753\Desktop\SY22-23\VB\Carpet Calculator\Carpet Calculator\obj\Debug\net6.0-windows\Carpet Calculator.vbproj.AssemblyReference.cache
+C:\Users\jlswe753\Desktop\SY22-23\VB\Carpet Calculator\Carpet Calculator\obj\Debug\net6.0-windows\MainWindow.g.vb
+C:\Users\jlswe753\Desktop\SY22-23\VB\Carpet Calculator\Carpet Calculator\obj\Debug\net6.0-windows\Application.g.vb
+C:\Users\jlswe753\Desktop\SY22-23\VB\Carpet Calculator\Carpet Calculator\obj\Debug\net6.0-windows\Carpet Calculator_MarkupCompile.cache
+C:\Users\jlswe753\Desktop\SY22-23\VB\Carpet Calculator\Carpet Calculator\obj\Debug\net6.0-windows\Carpet Calculator_MarkupCompile.lref
+C:\Users\jlswe753\Desktop\SY22-23\VB\Carpet Calculator\Carpet Calculator\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\jlswe753\Desktop\SY22-23\VB\Carpet Calculator\Carpet Calculator\obj\Debug\net6.0-windows\Carpet Calculator.g.resources
+C:\Users\jlswe753\Desktop\SY22-23\VB\Carpet Calculator\Carpet Calculator\obj\Debug\net6.0-windows\Carpet Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlswe753\Desktop\SY22-23\VB\Carpet Calculator\Carpet Calculator\obj\Debug\net6.0-windows\Carpet Calculator.AssemblyInfoInputs.cache
+C:\Users\jlswe753\Desktop\SY22-23\VB\Carpet Calculator\Carpet Calculator\obj\Debug\net6.0-windows\Carpet Calculator.AssemblyInfo.vb
+C:\Users\jlswe753\Desktop\SY22-23\VB\Carpet Calculator\Carpet Calculator\obj\Debug\net6.0-windows\Carpet Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\jlswe753\Desktop\SY22-23\VB\Carpet Calculator\Carpet Calculator\obj\Debug\net6.0-windows\Carpet Calculator.dll
+C:\Users\jlswe753\Desktop\SY22-23\VB\Carpet Calculator\Carpet Calculator\obj\Debug\net6.0-windows\refint\Carpet Calculator.dll
+C:\Users\jlswe753\Desktop\SY22-23\VB\Carpet Calculator\Carpet Calculator\obj\Debug\net6.0-windows\Carpet Calculator.pdb
+C:\Users\jlswe753\Desktop\SY22-23\VB\Carpet Calculator\Carpet Calculator\obj\Debug\net6.0-windows\Carpet Calculator.genruntimeconfig.cache
+C:\Users\jlswe753\Desktop\SY22-23\VB\Carpet Calculator\Carpet Calculator\obj\Debug\net6.0-windows\ref\Carpet Calculator.dll

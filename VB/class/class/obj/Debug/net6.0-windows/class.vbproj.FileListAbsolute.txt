@@ -1,0 +1,17 @@
+C:\Users\jlswe753\Desktop\SY22-23\VB\class\class\bin\Debug\net6.0-windows\class.exe
+C:\Users\jlswe753\Desktop\SY22-23\VB\class\class\bin\Debug\net6.0-windows\class.deps.json
+C:\Users\jlswe753\Desktop\SY22-23\VB\class\class\bin\Debug\net6.0-windows\class.runtimeconfig.json
+C:\Users\jlswe753\Desktop\SY22-23\VB\class\class\bin\Debug\net6.0-windows\class.dll
+C:\Users\jlswe753\Desktop\SY22-23\VB\class\class\bin\Debug\net6.0-windows\class.pdb
+C:\Users\jlswe753\Desktop\SY22-23\VB\class\class\obj\Debug\net6.0-windows\class.vbproj.AssemblyReference.cache
+C:\Users\jlswe753\Desktop\SY22-23\VB\class\class\obj\Debug\net6.0-windows\class.Form1.resources
+C:\Users\jlswe753\Desktop\SY22-23\VB\class\class\obj\Debug\net6.0-windows\class.vbproj.GenerateResource.cache
+C:\Users\jlswe753\Desktop\SY22-23\VB\class\class\obj\Debug\net6.0-windows\class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlswe753\Desktop\SY22-23\VB\class\class\obj\Debug\net6.0-windows\class.AssemblyInfoInputs.cache
+C:\Users\jlswe753\Desktop\SY22-23\VB\class\class\obj\Debug\net6.0-windows\class.AssemblyInfo.vb
+C:\Users\jlswe753\Desktop\SY22-23\VB\class\class\obj\Debug\net6.0-windows\class.vbproj.CoreCompileInputs.cache
+C:\Users\jlswe753\Desktop\SY22-23\VB\class\class\obj\Debug\net6.0-windows\class.dll
+C:\Users\jlswe753\Desktop\SY22-23\VB\class\class\obj\Debug\net6.0-windows\refint\class.dll
+C:\Users\jlswe753\Desktop\SY22-23\VB\class\class\obj\Debug\net6.0-windows\class.pdb
+C:\Users\jlswe753\Desktop\SY22-23\VB\class\class\obj\Debug\net6.0-windows\class.genruntimeconfig.cache
+C:\Users\jlswe753\Desktop\SY22-23\VB\class\class\obj\Debug\net6.0-windows\ref\class.dll

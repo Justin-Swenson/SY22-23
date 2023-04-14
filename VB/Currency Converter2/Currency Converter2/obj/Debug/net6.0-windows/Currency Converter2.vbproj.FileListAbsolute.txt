@@ -1,0 +1,21 @@
+C:\Users\jlswe753\Desktop\SY22-23\VB\Currency Converter2\Currency Converter2\bin\Debug\net6.0-windows\Currency Converter2.exe
+C:\Users\jlswe753\Desktop\SY22-23\VB\Currency Converter2\Currency Converter2\bin\Debug\net6.0-windows\Currency Converter2.deps.json
+C:\Users\jlswe753\Desktop\SY22-23\VB\Currency Converter2\Currency Converter2\bin\Debug\net6.0-windows\Currency Converter2.runtimeconfig.json
+C:\Users\jlswe753\Desktop\SY22-23\VB\Currency Converter2\Currency Converter2\bin\Debug\net6.0-windows\Currency Converter2.dll
+C:\Users\jlswe753\Desktop\SY22-23\VB\Currency Converter2\Currency Converter2\bin\Debug\net6.0-windows\Currency Converter2.pdb
+C:\Users\jlswe753\Desktop\SY22-23\VB\Currency Converter2\Currency Converter2\obj\Debug\net6.0-windows\Currency Converter2.vbproj.AssemblyReference.cache
+C:\Users\jlswe753\Desktop\SY22-23\VB\Currency Converter2\Currency Converter2\obj\Debug\net6.0-windows\MainWindow.g.vb
+C:\Users\jlswe753\Desktop\SY22-23\VB\Currency Converter2\Currency Converter2\obj\Debug\net6.0-windows\Application.g.vb
+C:\Users\jlswe753\Desktop\SY22-23\VB\Currency Converter2\Currency Converter2\obj\Debug\net6.0-windows\Currency Converter2_MarkupCompile.cache
+C:\Users\jlswe753\Desktop\SY22-23\VB\Currency Converter2\Currency Converter2\obj\Debug\net6.0-windows\Currency Converter2_MarkupCompile.lref
+C:\Users\jlswe753\Desktop\SY22-23\VB\Currency Converter2\Currency Converter2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\jlswe753\Desktop\SY22-23\VB\Currency Converter2\Currency Converter2\obj\Debug\net6.0-windows\Currency Converter2.g.resources
+C:\Users\jlswe753\Desktop\SY22-23\VB\Currency Converter2\Currency Converter2\obj\Debug\net6.0-windows\Currency Converter2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlswe753\Desktop\SY22-23\VB\Currency Converter2\Currency Converter2\obj\Debug\net6.0-windows\Currency Converter2.AssemblyInfoInputs.cache
+C:\Users\jlswe753\Desktop\SY22-23\VB\Currency Converter2\Currency Converter2\obj\Debug\net6.0-windows\Currency Converter2.AssemblyInfo.vb
+C:\Users\jlswe753\Desktop\SY22-23\VB\Currency Converter2\Currency Converter2\obj\Debug\net6.0-windows\Currency Converter2.vbproj.CoreCompileInputs.cache
+C:\Users\jlswe753\Desktop\SY22-23\VB\Currency Converter2\Currency Converter2\obj\Debug\net6.0-windows\Currency Converter2.dll
+C:\Users\jlswe753\Desktop\SY22-23\VB\Currency Converter2\Currency Converter2\obj\Debug\net6.0-windows\refint\Currency Converter2.dll
+C:\Users\jlswe753\Desktop\SY22-23\VB\Currency Converter2\Currency Converter2\obj\Debug\net6.0-windows\Currency Converter2.pdb
+C:\Users\jlswe753\Desktop\SY22-23\VB\Currency Converter2\Currency Converter2\obj\Debug\net6.0-windows\Currency Converter2.genruntimeconfig.cache
+C:\Users\jlswe753\Desktop\SY22-23\VB\Currency Converter2\Currency Converter2\obj\Debug\net6.0-windows\ref\Currency Converter2.dll
